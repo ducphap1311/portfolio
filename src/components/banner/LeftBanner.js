@@ -7,7 +7,7 @@ import { IoLogoJavascript } from "react-icons/io";
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-        words: ["Professional Coder.", "Front-end Developer."],
+        words: ["Professional Coder.", "Software Engineer"],
         loop: true,
         typeSpeed: 20,
         deleteSpeed: 10,
@@ -31,7 +31,7 @@ const LeftBanner = () => {
                     />
                 </h2>
                 <p className="text-base font-bodyFont leading-6 tracking-wide">
-                    I'm a front-end developer passionate about creating engaging
+                    I'm a software engineer passionate about creating engaging
                     digital experiences. With expertise in HTML, CSS, SASS, TailwindCSS,
                     JavaScript and ReactJS. I thrive on turning ideas into seamless user
                     interfaces. I excel in collaborative environments and stay
