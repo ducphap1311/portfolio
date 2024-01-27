@@ -4,11 +4,11 @@ import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 const ContactLeft = () => {
   return (
     <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-4 lgl:p-8 rounded-lg shadow-shadowOne flex flex-col gap-8 justify-center">
-      <img
+      {/* <img
         className="w-full h-auto object-cover rounded-lg mb-2"
-        src="https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/422375639_892084392395437_8508552039103983862_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=o_UkovNju7MAX97W5r0&_nc_ht=scontent.fsgn5-12.fna&oh=03_AdToLQnVttjaZqxhU3hrO1XtY7VVXJ6vuSFSfk1wqXgjsA&oe=65DBE39E"
+        src="https://scontent.fsgn5-9.fna.fbcdn.net/v/t1.15752-9/421261733_363848326399080_2908622416213277530_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=892tlQDhmjUAX-JJpgK&_nc_ht=scontent.fsgn5-9.fna&oh=03_AdRQq6KYtXb-603VXHbXhGo3RBKo03j3XkG7lTZM7V0-9w&oe=65DC5DC5"
         alt="contactImg"
-      />
+      /> */}
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Ho Duc Phap</h3>
         <p className="text-lg font-normal text-gray-400">

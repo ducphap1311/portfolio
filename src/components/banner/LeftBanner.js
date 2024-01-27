@@ -33,8 +33,7 @@ const LeftBanner = () => {
                 <p className="text-base font-bodyFont leading-6 tracking-wide">
                     I'm a software engineer passionate about creating engaging
                     digital experiences. With expertise in HTML, CSS, SASS, TailwindCSS,
-                    JavaScript and ReactJS. I thrive on turning ideas into seamless user
-                    interfaces. I excel in collaborative environments and stay
+                    JavaScript, ReactJS, NodeJS and ExpressJS, I thrive on turning ideas into software development. I excel in collaborative environments and stay
                     updated on industry trends. Let's connect and bring
                     innovative ideas to life!
                 </p>
