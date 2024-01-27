@@ -32,7 +32,7 @@ const LeftBanner = () => {
                 </h2>
                 <p className="text-base font-bodyFont leading-6 tracking-wide">
                     I'm a front-end developer passionate about creating engaging
-                    digital experiences. With expertise in HTML, CSS,SASS, TailwindCSS,
+                    digital experiences. With expertise in HTML, CSS, SASS, TailwindCSS,
                     JavaScript and ReactJS. I thrive on turning ideas into seamless user
                     interfaces. I excel in collaborative environments and stay
                     updated on industry trends. Let's connect and bring
@@ -46,7 +46,7 @@ const LeftBanner = () => {
                     </h2>
                     <div className="flex gap-4">
                         <span className="bannerIcon">
-                          <FaHtml5 />
+                            <FaHtml5 />
                         </span>
                         <span className="bannerIcon">
                         <FaCss3 />
@@ -61,7 +61,7 @@ const LeftBanner = () => {
                             <SiTailwindcss />
                         </span>
                         <span className="bannerIcon">
-                          <FaNodeJs />
+                            <FaNodeJs />
                         </span>
                         <span className="bannerIcon">
                             <SiFigma />
