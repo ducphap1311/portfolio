@@ -4,10 +4,12 @@ import { FaReact } from "react-icons/fa";
 import { SiTailwindcss, SiFigma} from "react-icons/si";
 import { FaHtml5, FaCss3, FaNodeJs } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
+import { SiTypescript } from "react-icons/si";
+import { TbBrandNextjs } from "react-icons/tb";
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-        words: ["Professional Coder.", "Software Engineer"],
+        words: ["Professional Coder.", "Front-end Developer"],
         loop: true,
         typeSpeed: 20,
         deleteSpeed: 10,
@@ -32,8 +34,8 @@ const LeftBanner = () => {
                 </h2>
                 <p className="text-base font-bodyFont leading-6 tracking-wide">
                     I'm a software engineer passionate about creating engaging
-                    digital experiences. With expertise in HTML, CSS, SASS, TailwindCSS,
-                    JavaScript, ReactJS, NodeJS and ExpressJS, I thrive on turning ideas into software development. I excel in collaborative environments and stay
+                    digital experiences. With expertise in HTML, CSS, SCSS, TailwindCSS, Ant Design, 
+                    JavaScript, TypeScript, ReactJS, NextJS, NodeJS and ExpressJS, I thrive on turning ideas into software development. I excel in collaborative environments and stay
                     updated on industry trends. Let's connect and bring
                     innovative ideas to life!
                 </p>
@@ -54,7 +56,13 @@ const LeftBanner = () => {
                         <IoLogoJavascript />
                         </span>
                         <span className="bannerIcon">
+                        <SiTypescript />
+                        </span>
+                        <span className="bannerIcon">
                             <FaReact />
+                        </span>
+                        <span className="bannerIcon">
+                            <TbBrandNextjs />
                         </span>
                         <span className="bannerIcon">
                             <SiTailwindcss />

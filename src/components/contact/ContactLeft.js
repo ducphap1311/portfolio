@@ -12,7 +12,7 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Ho Duc Phap</h3>
         <p className="text-lg font-normal text-gray-400">
-          Software Engineer
+          Front-end Developer
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">0825820709</span>
